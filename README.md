@@ -7,9 +7,9 @@ Videojuego Snake desarrollado en Python utilizando Turtle Graphics.
 
 ## Objetivo
 Modificar el videojuego para incorporar:
-1. Movimiento aleatorio de la comida.
-2. Cinco colores posibles para la serpiente y la comida.
-3. Colores diferentes en cada ejecución.
+1. Movimiento aleatorio de la comida. (Yerik)
+2. Cinco colores posibles para la serpiente y la comida. (Diego) 
+3. Colores diferentes en cada ejecución. (Diego)
 
 ## Controles
 - Flecha arriba: subir
